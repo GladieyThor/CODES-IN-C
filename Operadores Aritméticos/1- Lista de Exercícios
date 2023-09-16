@@ -1,0 +1,18 @@
+1) Escreva um programa para determinar a quantidade de litros 
+de combustível gastos em uma viagem por um automóvel que 
+faz 12 km/litro. Para isso, sabe-se que o tempo gasto na viagem 
+é de 35 min e a velocidade média do automóvel é 80 km/h.
+
+2) Uma conta de caderneta de poupança foi aberta com um 
+depósito de R$ 500,00. Imagine que esta conta é remunerada 
+em 1% de juros ao mês. Qual será o valor da conta após três 
+meses?
+
+3) Faça um programa com 2 variáveis, A e B, onde A terá 
+o valor 40 e B terá o valor -1. Imprima o valor de A+B, A-B, 
+AxB e A/B. Em seguida, faça B incrementar de uma 
+unidade e repita as 4 operações. 
+
+4) Tendo a Altura da pessoa definida como uma constante, 
+calcule seu peso ideal utilizando a seguinte fórmula:
+ peso ideal = 72.7 x altura – 5
