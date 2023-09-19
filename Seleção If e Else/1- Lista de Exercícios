@@ -1,0 +1,25 @@
+1) Faça um programa que receba como entrada a nota de
+um aluno. O programa deve exibir “aprovado” caso a nota
+seja igual ou superior a 6, ou exibir “reprovado” caso
+contrário.
+
+2) Faça um programa que receba um número e determine
+se ele é um número par ou ímpar.
+ Obs.: Utilize o operador % que retorna o resto da divisão)
+
+3) Faça um programa que receba os coeficientes a, b e c
+de uma equação do segundo grau e retorne as raízes da
+equação (se existirem).
+
+4) Faça um programa que calcule o imposto de renda a ser
+pago tendo como entrada o salário de um empregado. O
+imposto deve ser calculado da seguinte maneira:
+
+imposto = salário x alíquota – parcela da dedução
+
+Base de Cálculo (R$)          Alíquota (%)      Parcela a Deduzir (R$)
+de 0,00 até 1.903,98           isento                 0,00
+de 1.903,99 até 2.826,65        7,5                   142,80
+de 2.826,66 até 3.751,05        15                    354,80
+de 3.751,06 até 4.664,68       22,5                   636,13
+a partir de 4.664,68           27,5                   869,36
