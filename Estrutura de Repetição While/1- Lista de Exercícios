@@ -1,0 +1,40 @@
+1) Faça um algoritmo que exiba todos números de 1 a 100.
+
+2) Faça um algoritmo que exiba todos números de 100 a 1.
+
+3) Crie um algoritmo que exiba todos os números múltiplos
+de 3 no intervalo de 1 a 322.
+
+4) Crie um algoritmo que exiba todos os números pares
+entre 240 e 730 inclusive.
+
+5) Faça um programa que receba um número real, calcule e
+exiba o quadrado dele. O programa deverá repetir esse
+procedimento para 10 números, um de cada vez.
+
+6) Faça um programa que receba um número real, calcule e
+exiba o quadrado dele. O programa deverá calcular o quadrado
+de vários números e finalizar quando for digitado um número
+negativo ou zero.
+
+7) Faça um programa que calcule o fatorial de um número a ser
+digitado.
+
+8) Faça um menu que mostre 3 opções
+Menu do programa:
+1 - Teste 1
+2 - Teste 2
+3 – Sair do programa
+Digite sua opção:
+ A primeira opção imprime o texto “Teste1” e mostra o menu novamente.
+ A segunda opção imprime “Teste2” e mostra o menu novamente.
+ A terceira opção finaliza o programa.
+ Caso digite uma opção diferente, deve mostrar uma mensagem de erro e
+mostrar o menu novamente.
+
+9) Faça um programa que simule um jogo, onde o usuário
+deverá descobrir um número aleatório escolhido pelo
+computador (de 1 a 100).
+ O usuário poderá realizar até 6 tentativas, o programa deverá
+retornar as mensagens “muito alto”, “muito baixo” até o usuário
+acertar o número ou esgotar o número máximo de tentativas
