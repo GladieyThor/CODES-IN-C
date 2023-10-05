@@ -1,0 +1,25 @@
+1) Faça um programa que leia e armazene dois vetores de
+tamanho 5. Ao final o programa deve calcular e exibir o vetor
+soma;
+
+2) Crie um algoritmo que receba 10 números e os armazene em
+um vetor A. Em seguida, gere o vetor B onde cada elemento é o
+quadrado do valor da mesma posição no vetor A
+
+3) Leia um vetor A com 10 elementos inteiros correspondentes
+as idades de um grupo de pessoas. Escreva um programa que
+conte e exiba a quantidade de pessoas que possuem idade
+superior a 35 anos.
+
+4) Crie e inicialize um vetor de inteiros de tamanho 8. Faça a
+soma dos seus elementos, e apresente o resultado.
+
+5)Dado dois vetores, A (4 elementos) e B (5 elementos), faça
+um programa em C que imprima todos os elementos comuns
+aos dois vetores.
+
+6) Faça um programa que receba e armazene 20 números em
+um vetor. Em seguida exiba:
+ Quantos números são iguais a 30;
+ Quantos números são maior que a média;
+ Quantos números são iguais à media;
