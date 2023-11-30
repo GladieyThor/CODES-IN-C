@@ -43,7 +43,7 @@ void calculadora(float numero1, float numero2, char operador){
         break;
     }//SWITCH QUE DESIGNA AS OPERAÇÕES;
     return;
-}//MAIN;
+}//FUNÇÃO PARA REALIZAR AS OPERAÇÕES DE CALCULADORA;
 
 
 int main(){
